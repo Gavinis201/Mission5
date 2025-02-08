@@ -159,7 +159,7 @@ footer a {
 .button{
   height: 2em;
   width: 6em;
-  border: 1px solid black;
+  border: .5px solid black;
   border-radius: 15px;
 }
 .color{
