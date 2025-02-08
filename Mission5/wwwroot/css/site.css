@@ -126,17 +126,13 @@ footer{
   color: #6c757d ;
   height: 3em;
   width: 100%;
+  margin-top: 1em;
 }
 footer a {
   color: #6c757d ;
   text-decoration: none ;
 }
-.footer{
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-}
+
 
 .calcContainer{
   display: flex;
@@ -146,7 +142,7 @@ footer a {
   padding: 3em;
 }
 .calcBackground{
-  height: 70vh;
+  height: 80vh;
   background-image: url('../img/Field.jpg');
   background-position: center center; /* centers the image */
   background-size: cover; /* ensures the image covers the entire container */
