@@ -28,3 +28,4 @@
 /Users/gavinsmith/Desktop/BYU Marriot School/Semester 2 Junior Core/IS 413 Application Development | Prof. Hilton/WEB APPLICATIONS PRACTICE/Mission5/Mission5/obj/Debug/net8.0/Mission5.pdb
 /Users/gavinsmith/Desktop/BYU Marriot School/Semester 2 Junior Core/IS 413 Application Development | Prof. Hilton/WEB APPLICATIONS PRACTICE/Mission5/Mission5/obj/Debug/net8.0/Mission5.genruntimeconfig.cache
 /Users/gavinsmith/Desktop/BYU Marriot School/Semester 2 Junior Core/IS 413 Application Development | Prof. Hilton/WEB APPLICATIONS PRACTICE/Mission5/Mission5/obj/Debug/net8.0/ref/Mission5.dll
+/Users/gavinsmith/Desktop/BYU Marriot School/Semester 2 Junior Core/IS 413 Application Development | Prof. Hilton/WEB APPLICATIONS PRACTICE/Mission5/Mission5/obj/Debug/net8.0/Mission5.sourcelink.json

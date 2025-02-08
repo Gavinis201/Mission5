@@ -13,6 +13,26 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/gavinsmith/Desktop/BYU Marriot School/Semester 2 Junior Core/IS 413 Application Development | Prof. Hilton/WEB APPLICATIONS PRACTICE/Mission5/Mission5/wwwroot/img/Buck.jpg",
+      "PackagePath": "staticwebassets/img/Buck.jpg"
+    },
+    {
+      "Id": "/Users/gavinsmith/Desktop/BYU Marriot School/Semester 2 Junior Core/IS 413 Application Development | Prof. Hilton/WEB APPLICATIONS PRACTICE/Mission5/Mission5/wwwroot/img/BullElk.jpg",
+      "PackagePath": "staticwebassets/img/BullElk.jpg"
+    },
+    {
+      "Id": "/Users/gavinsmith/Desktop/BYU Marriot School/Semester 2 Junior Core/IS 413 Application Development | Prof. Hilton/WEB APPLICATIONS PRACTICE/Mission5/Mission5/wwwroot/img/Field.jpg",
+      "PackagePath": "staticwebassets/img/Field.jpg"
+    },
+    {
+      "Id": "/Users/gavinsmith/Desktop/BYU Marriot School/Semester 2 Junior Core/IS 413 Application Development | Prof. Hilton/WEB APPLICATIONS PRACTICE/Mission5/Mission5/wwwroot/img/Gav&Dad.jpeg",
+      "PackagePath": "staticwebassets/img/Gav&Dad.jpeg"
+    },
+    {
+      "Id": "/Users/gavinsmith/Desktop/BYU Marriot School/Semester 2 Junior Core/IS 413 Application Development | Prof. Hilton/WEB APPLICATIONS PRACTICE/Mission5/Mission5/wwwroot/img/hunting2.jpg",
+      "PackagePath": "staticwebassets/img/hunting2.jpg"
+    },
+    {
       "Id": "/Users/gavinsmith/Desktop/BYU Marriot School/Semester 2 Junior Core/IS 413 Application Development | Prof. Hilton/WEB APPLICATIONS PRACTICE/Mission5/Mission5/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
