@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JAaSkq9VjEviFvsJJe2KQWfqC/6DVCj/wmy70lwzOIk=",
+  "Hash": "yrCPDe9qQA3TbzPQgEsDs+GLrgVI1hDHh/Nn4Yg019E=",
   "Source": "Mission5",
   "BasePath": "_content/Mission5",
   "Mode": "Default",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/img/BullElk.jpg"
+    },
+    {
+      "Identity": "/Users/gavinsmith/Desktop/BYU Marriot School/Semester 2 Junior Core/IS 413 Application Development | Prof. Hilton/WEB APPLICATIONS PRACTICE/Mission5/Mission5/wwwroot/img/favicon-16x16.png",
+      "SourceId": "Mission5",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/gavinsmith/Desktop/BYU Marriot School/Semester 2 Junior Core/IS 413 Application Development | Prof. Hilton/WEB APPLICATIONS PRACTICE/Mission5/Mission5/wwwroot/",
+      "BasePath": "_content/Mission5",
+      "RelativePath": "img/favicon-16x16.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/favicon-16x16.png"
     },
     {
       "Identity": "/Users/gavinsmith/Desktop/BYU Marriot School/Semester 2 Junior Core/IS 413 Application Development | Prof. Hilton/WEB APPLICATIONS PRACTICE/Mission5/Mission5/wwwroot/img/Field.jpg",

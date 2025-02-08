@@ -3,6 +3,7 @@
   --root: #dac5a6;
   
 }
+
 .headergb{
   background-color: var(--root);
 }
@@ -83,25 +84,18 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-twoPics{
-  height: 50vh;
-  width: 100%;
-  background-image: var(--root);
-  padding: 5em;
-}
+
 .twoPicsflex{
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
-  gap: 2em;
-  padding: 5em;
+  gap: 10em;
+  padding: 4em;
 }
 .navbar-brand{
   color: #41464b; !important;
   font-size: 1.5em;
-  border: 1px solid white;
-  border-radius: 15px;
-  padding: .5em;
+  padding: .75em;
 }
 .nav-link{
   border-radius: 15px;!important;
@@ -112,4 +106,34 @@ twoPics{
  background-color: rgba(255, 255, 255, 0.35) !important;
   color: black !important;
   border-radius: 15px;!important;
+}
+
+.paragraphs{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2em;
+}
+.paragraphs p{
+  padding-left: 5em;
+  padding-right: 5em;
+}
+
+footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #6c757d ;
+  height: 3em;
+  width: 100%;
+}
+footer a {
+  color: #6c757d ;
+  text-decoration: none ;
+}
+.footer{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
 }
