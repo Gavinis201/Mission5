@@ -1,4 +1,21 @@
-﻿// Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿function calcTotal(){
+    // Get the input values using jQuery
+    let inputHours = parseInt($('#hours').val());
+    let hourlyRate = parseInt($('#rate').val());
 
-// Write your JavaScript code.
+    // Check if the input values are valid and positive numbers
+    if (isNaN(inputHours) || inputHours <= 0) {
+        alert("Please enter a valid positive number for hours.");
+        return;
+    }
+    if (isNaN(hourlyRate) || hourlyRate <= 0) {
+        alert("Please enter a valid positive number for the rate.");
+        return;
+    }
+
+    // Calculate the total
+    let total = inputHours * hourlyRate;
+
+    // Set the total value in the total input field using jQuery
+    $('#total').val(total);
+}
