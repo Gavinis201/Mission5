@@ -152,21 +152,7 @@ footer a {
   background-size: cover; /* ensures the image covers the entire container */
   background-repeat: no-repeat;
 }
-.calcBackground::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, 0.1);
-  z-index: 1;
-}
-.calcBackground * {
-  position: relative;
-  z-index: 2;
 
-}
 .inputCenter{
   text-align: center;
 }
@@ -179,4 +165,7 @@ footer a {
 .color{
   font-weight: bold;
   font-size: 1em;
+}
+.estimate{
+  letter-spacing: 2px;
 }
