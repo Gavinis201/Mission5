@@ -1,6 +1,6 @@
 ﻿function calcTotal(){
     // Get the input values using jQuery
-    let inputHours = parseInt($('#hours').val());
+    let inputHours = parseFloat($('#hours').val());
     let hourlyRate = parseInt($('#rate').val());
 
     // Check if the input values are valid and positive numbers
